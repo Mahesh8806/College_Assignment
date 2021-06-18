@@ -5,7 +5,7 @@
 }
 .heading{
     text-align: center;
-    color: #907fa4;
+    color:rgb(61, 46, 46);
 }
 .subjects{
     margin: auto;
@@ -33,4 +33,7 @@ a{
 }
 .colorAfterHover:hover{
     color: red;
+}
+#b{
+    background-color:rgb(16, 235, 125);  
 }

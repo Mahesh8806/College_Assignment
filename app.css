@@ -42,3 +42,7 @@ a{
 #b{
     background-color:#C1F6FF; 
 }
+#footer{
+    background-color: rgb(103, 103, 194);
+    height: 130px;
+}

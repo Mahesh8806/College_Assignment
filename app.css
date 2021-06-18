@@ -46,7 +46,5 @@ a{
 #footer{
     text-align: center;
     background-color: rgb(103, 103, 194);
-    height:auto;
-    margin-left:5%;
-    margin-right:5%;    
+    height:auto;   
 }

@@ -5,7 +5,7 @@
 }
 .heading{
     text-align: center;
-    color:#2966a2
+    color:rgb(61, 46, 46);
 }
 .subjects{
     margin: auto;
@@ -35,5 +35,5 @@ a{
     color: red;
 }
 #b{
-    background-color:rgb(16, 235, 125);  
+    background-color:#2966a2  
 }

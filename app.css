@@ -43,6 +43,7 @@ a{
     background-color:#C1F6FF; 
 }
 #footer{
+    text-align: center;
     background-color: rgb(103, 103, 194);
     height: 130px;
 }

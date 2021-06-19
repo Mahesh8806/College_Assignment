@@ -2,7 +2,7 @@
     display: block;
     height: 180px;
     width:190px;
-    padding-left: 5%;
+    padding-left: 25px;
     padding-top: 10%;
     padding-right: 5%;
     margin-left: auto;
@@ -48,7 +48,7 @@ a{
     height:auto;   
 }
 #toph{
-    padding-top: 30px;
+    padding-top: 40px;
     padding-left: 30px;
     padding-right: 30px;
     text-align: left;
